@@ -67,7 +67,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PuchalapalliSathvic&show_icons=true&theme=default&hide_title=false" alt="GitHub stats" />
-</p>
