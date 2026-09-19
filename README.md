@@ -1,150 +1,72 @@
 <h1 align="center">Hi 👋, I'm Sathvic Puchalapalli</h1>
 
 <p align="center">
-  <b>Software Engineer • AI/ML • Trustworthy Medical AI • LLM Systems</b>
-</p>
-
-<p align="center">
-  I build reliable AI systems, backend platforms, and research-driven machine learning projects.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI%2FML;Trustworthy+Medical+AI+%7C+LLM+Systems;Building+Research-Driven+AI+Projects" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:sathvic15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-sathvic15%40gmail.com-informational?style=flat-square" />
+    <img src="https://img.shields.io/badge/Email-sathvic15%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/PuchalapalliSathvic">
-    <img src="https://img.shields.io/badge/GitHub-PuchalapalliSathvic-black?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-PuchalapalliSathvic-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-## About Me
+### 🚀 About Me
 
-🎓 **MS in Computer and Information Sciences — AI/ML**  
-University at Buffalo
-
-💼 Software engineering experience at **Nokia**, working on telecom network management platforms.
-
-🔬 Currently exploring **trustworthy AI for healthcare**, medical imaging, anomaly detection, reliability, and failure-aware machine learning.
-
-🤖 Also building **RAG, LLM, and agentic systems** using Python, FastAPI, LangChain, vector search, and modern backend infrastructure.
-
-☁️ Interested in production AI systems spanning **AWS, Docker, Kubernetes, CI/CD, and cloud deployment**.
+- 🎓 MS in Computer and Information Sciences — AI/ML, University at Buffalo
+- 💼 Software Engineer with experience at Nokia
+- 🧠 Exploring trustworthy AI, medical imaging, anomaly detection, and LLM systems
+- ⚙️ Building with Python, Java, FastAPI, PyTorch, AWS, Docker, Kubernetes
+- 📫 Reach me at **sathvic15@gmail.com**
 
 ---
 
-## Current Research
+### 🔬 Current Research
 
-### Failure-Aware Anomaly Detection in Brain MRI
+**Failure-Aware Anomaly Detection in Brain MRI**
 
-I am currently investigating a simple but important question:
+> How do we know when an anomaly detector itself should not be trusted?
 
-> **How do we know when an anomaly detector itself should not be trusted?**
+Exploring reliability, multiple notions of normality, uncertainty, failure detection, and robustness using foundation-model features.
 
-The project studies foundation-model representations for brain MRI and explores how different definitions of *normality* behave under subtle lesions, distribution shifts, and uncertain cases.
-
-Rather than treating failed experiments as something to hide, the project records:
-
-**observation → hypothesis → experiment → failure analysis → next idea**
-
-🔗 **Repository:**  
-[Failure-Aware Anomaly Detection in Brain MRI](https://github.com/PuchalapalliSathvic/failure-aware-mri-anomaly-detection)
+[![View Project](https://img.shields.io/badge/View%20Research-Repository-2ea44f?style=for-the-badge&logo=github)](https://github.com/PuchalapalliSathvic/failure-aware-mri-anomaly-detection)
 
 ---
 
-## Selected Projects
+### 🧩 Selected Work
 
-### 🧠 Failure-Aware MRI Anomaly Detection
-Research-oriented medical imaging project exploring anomaly localization, uncertainty, robustness, and failure detection using foundation-model features.
-
-`Python` `PyTorch` `DINOv2` `Medical Imaging` `Trustworthy AI`
-
----
-
-### 📚 MediQuery
-
-A retrieval-augmented generation pipeline over medical literature for low-latency question answering.
-
-Built with:
-
-`LangChain` `FAISS` `FastAPI` `Python` `LLMs` `RAG`
+- **MediQuery** — RAG over medical literature using LangChain, FAISS, FastAPI
+- **Alzheimer's MRI Classifier** — ResNet-50 + Grad-CAM
+- **Axon** — Dementia care platform connecting patients, physicians, and caregivers
+- **Cloud CI/CD Pipeline** — Docker + GitHub Actions + Google Cloud Run
 
 ---
 
-### 🩻 Alzheimer's MRI Classifier
+### 🛠️ Tech Stack
 
-Deep-learning pipeline for Alzheimer's MRI classification using **ResNet-50** with **Grad-CAM** explainability.
-
-Reported experimental accuracy: **94.2%**
-
-`PyTorch` `Computer Vision` `Grad-CAM` `Medical AI`
-
----
-
-### 🧩 Axon
-
-A full-stack dementia-care platform designed to connect:
-
-- patients
-- physicians
-- caregivers
-
-Built with:
-
-`React Native` `Node.js` `MongoDB`
-
----
-
-### ☁️ Containerized CI/CD Pipeline
-
-Built and deployed a Flask application using:
-
-`Docker` → `GitHub Actions` → `Google Cloud Run`
-
-with a multi-stage CI/CD workflow.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,sql" />
-</p>
-
-### AI / ML
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-`DINOv2` • `LangChain` • `FAISS` • `RAG` • `LLMs` • `Computer Vision` • `Medical AI`
-
-### Backend & Cloud
-
-<p>
-  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,docker,kubernetes,aws,gcp" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,git,github,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,fastapi,spring,nodejs,docker,kubernetes,aws,gcp,mongodb,postgres,git,github&perline=8" />
 </p>
 
 ---
 
-## What I'm Exploring
+### 📊 GitHub
 
-```text
-Trustworthy Medical AI
-        ↓
-Foundation Models
-        ↓
-Anomaly Detection
-        ↓
-Uncertainty & Failure Analysis
-        ↓
-Reliable AI Systems
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PuchalapalliSathvic&show_icons=true&hide_border=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PuchalapalliSathvic&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PuchalapalliSathvic&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>Software Engineering × AI Research × Reliable Systems</b>
+</p>
